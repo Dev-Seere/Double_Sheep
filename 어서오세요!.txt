@@ -1,0 +1,12 @@
+# Double_Sheep Git Hub에 오신것을 환영합니다!
+
+# 이 곳은 GitHub를 연습하는 곳이며, 업로드를 하는 법, 
+# 관리하는 법에 대해 공부하는 곳입니다.
+
+# 아직 부족한게 많고 외워야 할 명령어도 많지만 천천히 외워봐야죠!
+
+
+
+
+# 명령어 : git status, git add . [컴마 중요], git commit -m "뭐할때 쓰는건지 모르겠", 
+# git push origin master
